@@ -16,13 +16,66 @@ Tobira = Mayumi Oka et al., _[Tobira: Gateway to Advanced Japanese Learning Thro
 
 This table summarizes the kanji characters introduced in the videos:
 
-| VideOS | KANJI |
-| --- | --- |
-| 1 | Tobira lesson 6: 置 式 石 査 熱 民 急 紀 倍 参 加 個 反 賛 果 |
-| 2 | Tobira lesson 7: 済 品 虫 丸 命 戦 争 未 深 閉 号 悲 静 払 格 |
-| 3 | Tobira lesson 8: 効 科 減 完 登 公 逆 低 点 常 写 真 確 村. |
-| 4 | Tobira lesson 9: 制 満 進 落 協 位 幸 可 原 因 求 容 算 等 喜 |
-| 5 | Tobira lesson 10: 訪 景 区 危 険 役 省 冷 将 情 報 独 身 遠 並 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VideOS
+{{< thclose >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Tobira lesson 6: 置 式 石 査 熱 民 急 紀 倍 参 加 個 反 賛 果
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Tobira lesson 7: 済 品 虫 丸 命 戦 争 未 深 閉 号 悲 静 払 格
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Tobira lesson 8: 効 科 減 完 登 公 逆 低 点 常 写 真 確 村.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Tobira lesson 9: 制 満 進 落 協 位 幸 可 原 因 求 容 算 等 喜
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tobira lesson 10: 訪 景 区 危 険 役 省 冷 将 情 報 独 身 遠 並
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Resources
 --------------------
